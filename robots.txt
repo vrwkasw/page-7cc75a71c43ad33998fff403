@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3cad913b99.astatoner.cn/sitemap.xml
